@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AhmedTharwat-AT/Spliting-Money-Project/static/css/main.77491eb5.css",
+    "main.js": "/AhmedTharwat-AT/Spliting-Money-Project/static/js/main.f203a118.js",
+    "index.html": "/AhmedTharwat-AT/Spliting-Money-Project/index.html",
+    "main.77491eb5.css.map": "/AhmedTharwat-AT/Spliting-Money-Project/static/css/main.77491eb5.css.map",
+    "main.f203a118.js.map": "/AhmedTharwat-AT/Spliting-Money-Project/static/js/main.f203a118.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77491eb5.css",
+    "static/js/main.f203a118.js"
+  ]
+}
