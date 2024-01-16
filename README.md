@@ -8,9 +8,7 @@ This project idea is to split money between you and your friends and keep it log
 - I learned how it can get so tedious when lifting up or driling state to reach the targeted component , so the need to learn a powerful state mangement library like `Recoil or Redux` to centeralize
 the state and make the project easier to understand amd to find bugs .
 
-----
-### [Live Preview ](https://ahmedtharwat-at.github.io/Spliting-Money-Project/)
-----
+
 
 ## Screens
 ![1](https://github.com/AhmedTharwat-AT/Spliting-Money-Project/assets/89677139/846cd5e3-dc3c-4f60-a30f-1c97d2a0d020)
